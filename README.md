@@ -1,4 +1,3 @@
-### SpringMVC - JPA
-- #### Proyecto Java Web / SpringMVC - JPA
-- #### Realiza CRUD , Persistiendo con JPA
+### Proyecto Java SpringMVC 
+#### Realiza CRUD , Persistiendo con JPA
 
